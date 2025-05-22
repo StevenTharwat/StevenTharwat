@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/steven-tharwat-12727419a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-tharwat-12727419a" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/stevensarwat9623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stevensarwat9623" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@stevensarwat9623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stevensarwat9623" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/steventharwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="steventharwat" height="30" width="40" /></a>
 </p>
 
